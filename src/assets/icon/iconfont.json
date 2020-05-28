@@ -1,0 +1,30 @@
+{
+  "id": "1533906",
+  "name": "font class",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3102731",
+      "name": "B",
+      "font_class": "B",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7764544",
+      "name": "确认 正确",
+      "font_class": "circle-right",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "644539",
+      "name": "圆",
+      "font_class": "circle",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
